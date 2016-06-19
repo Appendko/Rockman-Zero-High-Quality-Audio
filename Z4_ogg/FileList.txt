@@ -1,0 +1,36 @@
+﻿--List of Music Files of Rockman Zero 4
+--Format: Code_JP[TAB]Code_US[TAB]Code_EU[TAB]Filename[TAB]Music Title[TAB]--Comments
+0x3804	0x0480	0x0430	01	Title IV	--TITLE2
+0x4A50	0x1514	0x14C4	02	Ragnarok Record -Prologue- Gjallarhorn	--Prologue
+0x48B4	0x1530	0x14E0	03	Caravan - Hope for Freedom	--Caravan (Opening Stage #1)
+0x1338	0xDFB4	0xDF64	04	Nothing Beats	--Boss Theme
+0xFBB0	0xC82C	0xC7DC	05	Holy Land	--Area Zero Camp
+0x524C	0x1D08	0x1CB8	06	Fragile Border	--Fragile Border
+0x5330	0x1FAC	0x1F5C	07	Esperanto - Mythos Ver. -	--Area Zero (Opening Stage #2)
+0x4288	0x0F04	0x0EB4	08	Fate - Theme of Weil -	--Boss Encounter
+0x7864	0x44E0	0x4490	09	Queen of the Hurt	--Underground Forest (Noble Mandrago's Stage)
+0x1F00	0xEB7C	0xEB2C	10	Crash IV	--Crash IV (Mid-Boss Theme)
+0x8F20	0x5B9C	0x5B4C	11	Blackheart Beat	--Living City (Popla Cocapetri's Stage)
+0x5E98	0x2B14	0x2AC4	12	Max Heat	--Particle Beam (Heat Genblem's Stage)
+0x8050	0x4CCC	0x4C7C	13	Sleeping Beast	--Hibernation Chamber (Fenri Lunaedge's Stage)
+0xA0EC	0x6D68	0x6D18	14	Showdown	--Area Zero Camp Stage
+0x2828	0xF4A4	0xF454	15	Power Field	--Vs Craft
+0x4148	0x0DC4	0x0D74	16	Cage of Tyrant	--Prison Stage
+0xA634	0x72B0	0x7260	17	Exodus	--Emergency Theme (Opening and Escape from Prison Stage)
+0x66E4	0x3360	0x3310	18	Deep Blue	--Deep Sea (Tech Kraken's Stage)
+0x7CFC	0x4978	0x4928	19	Blaze Down	--Artificial Sun (Sol Titanion's Stage)
+0x0628	0xD2A4	0xD254	20	Elves Dance	--Item / Cyber-elf Menu
+0x6D9C	0x3A18	0x39C8	21	Celestial Gardens	--Hanging Gardens (Pegasolta Eclair's Stage)
+0x876C	0x53E8	0x5398	22	Magnetic Rumble	--Magnetic Zone (Mino Magnus' Stage)
+0xA3C4	0x6E80	0x6E30	23	Kraft	--Theme of Craft
+0x6DD0	0x388C	0x383C	24	On The Edge	--On The Edge
+0xBB48	0x87C4	0x8774	25	Straight Ahead - Mythos Ver. -	--Ragnarok Control
+0xAADC	0x7598	0x7548	26	Rust and Dust	--Rust and Dust
+0xC58C	0x9208	0x91B8	27	Crossover Station	--Teleporter Base
+0xD53C	0xA1B8	0xA168	28	Cyber Space	--Teleporter Circuit
+0xE058	0xACD4	0xAC84	29	Ragnarok	--Ragnarok Core (Final Stage)
+0x3930	0x05AC	0x055C	30	Falling Down	--Vs Dr Weil - Final Battle, Phase 2
+0x05C4	0xD240	0xD1F0	31	Ciel d'aube	--Epilogue
+0x6844	0x3300	0x32B0	32	Freesia	--Credits
+0xCA58	0x9764	0x9714	33	Result of Mission III	--Result (but Z4 doesn't have a music here?!)
+--OtherCode--0x42B4/0x0F30/0x0EE0:Transporting--0x8EC8/0x5984/0x5934:TITLE1--0xAD9C/0x7858/0x7808:TITLE3--

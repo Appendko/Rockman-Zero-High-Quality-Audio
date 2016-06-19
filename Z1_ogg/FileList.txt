@@ -1,0 +1,29 @@
+﻿--List of Music Files of Rockman Zero 1
+--Format: Code_JP[TAB]Code_US[TAB]Code_EU[TAB]Filename[TAB]Music Title[TAB]--Comments
+0xF198	0xF094	0xF094	01	Title	--TITLE1
+0xF2E4	0x0B88	0x0B88	02	Title	--TITLE2
+0xE90C	0xE808	0xE808	03	Crash (Short ver.)	--Opening-Escape
+0x86F8	0x85F4	0x85F4	04	The Ruins of Lab	--The Ruins of Lab
+0xCBD8	0xCAD4	0xCAD4	05	Captive Legend	--Captive Legend
+0xEB14	0xEA10	0xEA10	06	Cyber-elf	--Cyber-elf
+0x9544	0x9440	0x9440	07	Theme of ZERO (from Rockman X)	--Theme of Zero
+0x8CD4	0x8BD0	0x8BD0	08	Crash	--Boss Theme
+0xEF54	0xEE50	0xEE50	09	Result of Mission	--Result
+0x8590	0x848C	0x848C	10	Intermission	--Resistance Base
+0x9A1C	0x9918	0x9918	11	Resistance	--Stages: Resistance
+0x880C	0x8708	0x8708	12	Guarder Room	--Boss Encounter
+0xAFFC	0xAEF8	0xAEF8	13	Deadzone	--Stages: Deadzone
+0x9F08	0x9E04	0x9E04	14	EXPRESS UG	--Stages: Train
+0xA234	0xA130	0xA130	15	Hell Plant	--Stages: Factory
+0xBB38	0xBA34	0xBA34	16	Infiltration	--Stages: Infiltration
+0x80F4	0x7FF0	0x7FF0	17	X, The Legend	--Theme of X and Four Guardians
+0x0970	0x086C	0x086C	18	Emergency	--Stages: Emergency (Crisis Theme)
+0xA44C	0xA348	0xA348	19	Scorching Desert	--Stages: Desert
+0xC954	0xC850	0xC850	20	Enemy Hall	--Stages: Neo Arcadia Shrine / Tower
+0xB5EC	0xB4E8	0xB4E8	21	Neo Arcadia	--Stages: Neo Arcadia Core 
+0xFF64	0xFE60	0xFE60	22	The End of Legend	--Variation on Theme of X and Four Guardians
+0xE7D0	0xE6CC	0xE6CC	23	Fake	--Vs. Seraph Copy X - Final Battle
+0x0504	0x0400	0x0400	24	For Endless Fight	--Epilogue
+0xE430	0xE32C	0xE32C	25	Area of Zero	--Credits Theme
+0xF080	0xEF7C	0xEF7C	26	Theme of ZERO (Short ver.)	--End Title
+--OtherCode--0xEB6C/EC70/EC70:EscapeFromTheFinalBattle--

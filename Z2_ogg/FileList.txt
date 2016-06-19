@@ -1,0 +1,41 @@
+﻿--List of Music Files of Rockman Zero 2
+--Format: Code_JP[TAB]Code_US[TAB]Code_EU[TAB]Filename[TAB]Music Title[TAB]--Comments
+0xC894	0xD64C	0xD64C	01	Title II	--Title
+0xA6D0	0xB488	0xB488	02	For Endless Fight II	--Prologue
+0xBB90	0xC948	0xC948	03	Departure - Mythos Ver. -	--Sand Wilderness (Opening Stage)
+0x759C	0x8354	0x8354	04	Guarder Room	--Boss Encounter
+0x82FC	0x90B4	0x90B4	05	Crash II	--Mid-Boss Theme
+0xAB00	0xB8B8	0xB8B8	06	X, The Legend	--Theme of X and Four Guardians
+0x0234	0x0FEC	0x0FEC	07	Result of Mission II	--Result
+0x8144	0x8EFC	0x8EFC	08	Mark of Justice - Resistance Anthem -	--Resistance Force
+0x8D8C	0x9B44	0x9B44	09	Imminent Storm - Uneasy Arrange -	--Imminent Storm
+0x65C8	0x7380	0x7380	10	L'oiseau du bonheur	--Ciel's Theme
+0x7030	0x7DE8	0x7DE8	11	Momentary Peace	--Resistance Base
+0x4ED4	0x5C8C	0x5C8C	12	Instructions	--Command Room
+0xECFC	0xFAB4	0xFAB4	13	Platinum	--Train (Panter Flauclaws' Stage)
+0x9130	0x9EE8	0x9EE8	14	Strong Will	--Boss Theme
+0xE248	0xF000	0xF000	15	Gravity	--Power Room (Phoenix Magnion's Stage)
+0xDAF8	0xE8B0	0xE8B0	16	Ice Brain	--Entrance of Computer Facility (Poler Kamrous' Stage)
+0xCC80	0xDA38	0xDA38	17	Sand Triangle - Mythos Ver. -	--Forest of Dysis (Hyleg Ourobockle's Stage)
+0xC30C	0xD0C4	0xD0C4	18	Cyber-Elf	--Cyber-Elf
+0x17BC	0x2574	0x2574	19	Neo Arcadia - Mythos Ver. -	--Neo Arcadia Residential Area / Temple
+0xA420	0xB1D8	0xB1D8	20	Uneasy	--Uneasy
+0xF6D0	0x0488	0x0488	21	Power Bom	--Bombardment Aircraft (Kuwagust Anchus' Stage)
+0x14C4	0x227C	0x227C	22	Spreading Darkness	--Spreading Darkness
+0x0E6C	0x1C24	0x1C24	23	Flash Back	--Crystal Cave (Sage Harpuia's Stage)
+0xB3D4	0xC18C	0xC18C	24	Combustion	--Theme of Elpizo
+0xCD40	0xDAF8	0xDAF8	25	The End of Legend	--Variation on Theme of X and Four Guardians
+0xC68C	0xD444	0xD444	26	Dark Elf	--Dark Elf
+0xFBC0	0x0978	0x0978	27	Cool Water	--Roof of Computer Facility (Fairy Leviathan's Stage)
+0x05C8	0x1380	0x1380	28	Passionate	--Shuttle Factory (Fighting Fefnir's Stage)
+0x2014	0x2DCC	0x2DCC	29	Melt Down	--Temple of Fire
+0x25C4	0x337C	0x337C	30	Cool Hearted Fellow	--Temple of Ice
+0x3160	0x3F18	0x3F18	31	The Cloudy Stone	--Temple of Wind
+0x9558	0xA310	0xA310	32	Harpuia	--Harpuia
+0x462C	0x53E4	0x53E4	33	Silver Wolf - Mythos Ver. -	--Yggr-drasill (Final Stage)
+0xA33C	0xB0F4	0xB0F4	34	Supreme Ruler	--Vs. Elpizo - Final Battle, Phase 1
+0xAF0C	0xBCC4	0xBCC4	35	The Last - The Wish Punished -	--Vs. Elpizo - Final Battle, Phase 2
+0xBF04	0xCCBC	0xCCBC	36	In Mother's Light	--Epilogue
+0xFEF8	0x0CB0	0x0CB0	37	Clover	--Credits Theme
+0x7484	0x823C	0x823C	38	Red Time - 2 Player Edit -	--2 Player Theme
+--OtherCode--0x67C4/0x757C/0x757C:Transporting--0x7090/0x7E48/0x7E48:2-PlayerStage--

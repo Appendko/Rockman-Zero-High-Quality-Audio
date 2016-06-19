@@ -1,0 +1,43 @@
+﻿--List of Music Files of Rockman Zero 3
+--Format: Code_JP[TAB]Code_US[TAB]Code_EU[TAB]Filename[TAB]Music Title[TAB]--Comments
+0x2B88	0xF360	0xF30C	01	Title III	--Title III 
+0x56BC	0x1E94	0x1E40	02	Neo Arcadia March	--Prologue
+0x5D8C	0x2564	0x2510	03	Forbidden Ark	--Opening
+0x7804	0x3FDC	0x3F88	04	Break Out	--Derelict Spacecraft (Opening Stage)
+0x6C50	0x3428	0x33D4	05	Darkness Over World	--Darkness Over World
+0x6490	0x2C68	0x2C14	06	Exiled One -Omega-	--Theme of Omega
+0x1BF8	0xE3D0	0xE37C	07	Omega Battle	--Vs. Omega
+0x6A44	0x321C	0x31C8	08	Curse of Vile	--Theme of Weil
+0x28A8	0xF080	0xF02C	09	Result of Mission III	--Result
+0x1844	0xE01C	0xDFC8	10	Prismatic	--Resistance Base
+0x8BA8	0x5380	0x532C	11	Visor Eyes	--Mission Briefing
+0x8184	0x495C	0x4908	12	Volcano	--Aegis Volcano Base (Blazin' Flizard's Stage)
+0x89E8	0x51C0	0x516C	13	Water City	--Oceanic Highway Ruins (Childre Inarabitta's Stage)
+0x959C	0x5D74	0x5D20	14	Reborn Mechanics	--Weapons Recycling Factory (Hellbat Schilt's Stage)
+0x9CF8	0x64D0	0x647C	15	Old Life Space	--Old Residential (Deathtanz Mantisk's Stage)
+0x6FE0	0x37B8	0x3764	16	Crea and Prea	--Baby Elf Theme
+0x2568	0xED40	0xECEC	17	Crash III	--Mid-Boss Theme
+0xAE14	0x75EC	0x7598	18	Final Count Down	--Missile Facility
+0x6EB4	0x368C	0x3638	19	Omega Missile	--Launched Missile
+0x71B0	0x3988	0x3934	20	Darkelf -Arrange-	--Darkelf
+0xBACC	0x82A4	0x8250	21	For Endless Fight III	--Twilight Desert (Anubis Necromancess V's Stage)
+0xC444	0x8C1C	0x8BC8	22	Sand Triangle II	--Forest of Anatre (Hanumachine R's Stage)
+0xCDF8	0x95D0	0x957C	23	Infiltration II	--Frontline Ice Base (Blizzack Staggroff R's Stage)
+0xD9D4	0xA1AC	0xA158	24	Neo Arcadia III	--Area X-2 (Copy X Mark II's Stage)
+0xE2F0	0xAAC8	0xAA74	25	Cold Smile	--Energy Facility (Cubit Foxtar's Stage)
+0xF2AC	0xBA84	0xBA30	26	Trail on Powdery Snow	--Snowy Plains (Glacier le Cactank's Stage)
+0xF9E0	0xC1B8	0xC164	27	Submerged Memory	--Sunken Library (Volteel Biblio's Stage)
+0x0018	0xC7F0	0xC79C	28	High-Speed Lift	--Giant Elevator (Tretista Kelverian's Stage)
+0x0FE0	0xD7B8	0xD764	29	Hell's Gate Open - Mythos Ver. -	--Sub Arcadia
+0x21A8	0xE980	0xE92C	30	Scrapped Beat	--Boss Theme
+0x3468	0xFC40	0xFBEC	31	Judgement Day	--Vs. Fusion Omega - Final Battle, Phase 2
+0x37EC	0xFFC4	0xFF70	32	Return to Zero	--Theme of Zero
+0x39E0	0x01B8	0x0164	33	Apocalypse Now	--Apocalypse Now 
+0x437C	0x0B54	0x0B00	34	Cannon Ball - Mythos Ver. -	--Vs. Omega Zero - Final Battle, Phase 3
+0x4D9C	0x1574	0x1520	35	I,0 Your Fellow - Interlude -	--Epilogue
+0x6A90	0x3268	0x3214	36	Everlasting	--Credits
+0x84FC	0x4CD4	0x4C80	37	Labo - System-a-Ciel -	--Ciel's Minigame
+0x5170	0x1948	0x18F4	38	Guarder Room	--Boss Encounter
+0x61C0	0x2998	0x2944	39	X, The Legend	--Theme of X and Four Guardians
+0x1270	0xDA48	0xD9F4	40	Curse of Vile	--Final Stage (but there isn't the a stage ver in RTRZ3)
+--OtherCode--0x7784/0x3F5C/0x3F08:Transporting--
